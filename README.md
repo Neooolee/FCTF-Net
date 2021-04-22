@@ -14,7 +14,7 @@ In many remote sensing (RS) applications, haze seriously degrades the quality of
 - Torchvision 0.2.0
 
 ## Dataset
-The dataset is coming soon.
+TO DO
 
 ## Citation
 ```
@@ -31,4 +31,4 @@ doi={10.1109/LGRS.2020.3006533}}
 
 ## Contact
 
-If you are interested in our work or have any questions, please directly contact me. Email: xchen@kupixel.com
+If you are interested in our work or have any questions, please directly contact me. Email: cv.xchen@gmail.com
