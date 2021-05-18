@@ -35,4 +35,4 @@ If you are interested in our work or have any questions, please directly contact
 
 ## Acknowledgments
 
-Codes are heavily borrowed from [GridDehazeNet](https://github.com/proteus1991/GridDehazeNet)
+Codes are heavily borrowed from [GridDehazeNet](https://github.com/proteus1991/GridDehazeNet).
