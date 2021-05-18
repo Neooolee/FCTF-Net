@@ -1,6 +1,6 @@
 # A Coarse-to-Fine Two-Stage Attentive Network for Haze Removal of Remote Sensing Images
 
-[Paper Download](https://ieeexplore.ieee.org/document/9136742)
+[Paper Link](https://ieeexplore.ieee.org/document/9136742)
 
 Yufeng Li, and [Xiang Chen](https://cxtalk.github.io/)
 
@@ -32,3 +32,7 @@ doi={10.1109/LGRS.2020.3006533}}
 ## Contact
 
 If you are interested in our work or have any questions, please directly contact me. Email: cv.xchen@gmail.com
+
+## Acknowledgments
+
+Codes are heavily borrowed from [GridDehazeNet](https://github.com/proteus1991/GridDehazeNet)
